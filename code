@@ -1,4 +1,12 @@
+>>>>
 git init
 git add .
 git commit -m "First commit"
+$ git remote add origin https://github.com/mithuncseseu/chaldalproject.git
+$ git push -u origin master
+
+For update>>>>>>>>>>
+git init
+git add .
+git commit -m"any msg"
 git push
